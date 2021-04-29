@@ -4,4 +4,4 @@
 
 -> Período em que participei do boletim: 07/07/2020 a 01/12/2020.
 
--> Site: https://www.saude.rj.gov.br/noticias/2020/07/boletim-semanal-das-unidades-sesrj
+-> Para ver todos os boletins, acessar o site: https://www.saude.rj.gov.br/noticias/2020/07/boletim-semanal-das-unidades-sesrj
